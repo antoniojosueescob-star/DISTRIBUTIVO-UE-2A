@@ -1,0 +1,6 @@
+{
+  "name": "Distributivo Docente Interactivo",
+  "description": "Sistema interactivo para la planificación, asignación de carga horaria, tutorías y validación de plantilla docente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
